@@ -1,0 +1,9 @@
+Building OKCash
+
+See doc/readme-qt.rst for instructions on building OKCash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OKCash.
+
+See doc/build-*.txt for instructions on building okcashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of OKCash.
